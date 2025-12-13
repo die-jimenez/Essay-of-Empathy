@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64fc25c0d0c1ccc4995b3ccb7860c7ea, type: 3}
+  m_Name: Mediacion General
+  m_EditorClassIdentifier: 
+  alturaMin_A: -3.5
+  alturaMax_A: -2.5
+  velocidadSubida_A: 0.8
+  velocidadBajada_A: 0.6
+  rangoVariacionAltura_A: 0.3
+  tiempoSostenidoEnMinimo_A: 0
+  tiempoSostenidoEnMaximo_A: 0
+  alturaMin_B: -4
+  alturaMax_B: 4
+  velocidadSubida_B: 0
+  velocidadBajada_B: 0
+  rangoVariacionAltura_B: 0
+  tiempoSostenidoEnMinimo_B: 0
+  tiempoSostenidoEnMaximo_B: 0
