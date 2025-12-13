@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 556534593}
   - component: {fileID: 556534596}
   m_Layer: 5
-  m_Name: Xenofobia
+  m_Name: Xenophobia
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -237,7 +237,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 554c877b90ed9754187694a7f6c4f1c7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a78b4fdc7d010024b95b66b783a4b520, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -418,7 +418,7 @@ GameObject:
   - component: {fileID: 747286361}
   - component: {fileID: 747286364}
   m_Layer: 5
-  m_Name: Empatia
+  m_Name: Shyness
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -496,7 +496,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Empatia
+          m_StringArgument: Timidez
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &747286362
@@ -519,7 +519,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f12f4f5c2e67e4d4a97893f83b3a2db4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 605dd6304bc8776439615c87fcad8e21, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -645,7 +645,7 @@ GameObject:
   - component: {fileID: 899976028}
   - component: {fileID: 899976031}
   m_Layer: 5
-  m_Name: Mediacion
+  m_Name: Harassment
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -723,7 +723,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Mediacion
+          m_StringArgument: Acoso
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &899976029
@@ -746,7 +746,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 89c41e1edad55d44cbf793223c6deb93, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e2e78e0b99c251645ab4533ee731be77, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -790,7 +790,7 @@ GameObject:
   - component: {fileID: 1030032894}
   - component: {fileID: 1030032897}
   m_Layer: 5
-  m_Name: Timidez
+  m_Name: Empathy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -868,7 +868,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Timidez
+          m_StringArgument: Empatia
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1030032895
@@ -891,7 +891,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 933949c225854774189b6c51e8a8ecff, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 91d8d7aab2f260647b802957658e4318, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -935,7 +935,7 @@ GameObject:
   - component: {fileID: 1250544901}
   - component: {fileID: 1250544904}
   m_Layer: 5
-  m_Name: Desinteres
+  m_Name: Abandonment
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1013,7 +1013,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Desinteres
+          m_StringArgument: Desamparo
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1250544902
@@ -1036,7 +1036,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2ad29501375992d4db6d00f635751e41, type: 3}
+  m_Sprite: {fileID: 21300000, guid: aa4872a709742374fa8dda5e15cae7db, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1152,7 +1152,7 @@ GameObject:
   - component: {fileID: 1503830015}
   - component: {fileID: 1503830018}
   m_Layer: 5
-  m_Name: Proteccion
+  m_Name: Protection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1253,7 +1253,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 56c3e940386b3b34f802512c1fb24a67, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9f98cf8414591634bb870c97d60cbaef, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1476,7 +1476,7 @@ GameObject:
   - component: {fileID: 1905795696}
   - component: {fileID: 1905795699}
   m_Layer: 5
-  m_Name: Acoso
+  m_Name: Vanity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1554,7 +1554,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Acoso
+          m_StringArgument: Vanidad
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1905795697
@@ -1577,7 +1577,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a320dc2939c8e28449a8578d06a7437c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0e9cc7db005718e41a76689f389a1d0a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1621,7 +1621,7 @@ GameObject:
   - component: {fileID: 2016718704}
   - component: {fileID: 2016718707}
   m_Layer: 5
-  m_Name: Desamparo
+  m_Name: Protection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1699,7 +1699,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Desamparo
+          m_StringArgument: Proteccion
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2016718705
@@ -1722,7 +1722,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 82cc61aa44bd3824ea12c307d143a13c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9f98cf8414591634bb870c97d60cbaef, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1766,7 +1766,7 @@ GameObject:
   - component: {fileID: 2085719223}
   - component: {fileID: 2085719226}
   m_Layer: 5
-  m_Name: Vanidad
+  m_Name: Mediation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1844,7 +1844,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Vanidad
+          m_StringArgument: Mediacion
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2085719224
@@ -1867,7 +1867,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d6af511b9d84d454382687ada9a1cda2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6d3fbb9f6283d93408b1c3315cb03ae8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
