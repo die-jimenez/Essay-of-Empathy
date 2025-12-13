@@ -1,3 +1,4 @@
+## Theme:
 “Essay of Empathy” is a project that explores complex concepts through basic geometric shapes, maintaining a consistent visual style throughout.
 It was developed in Unity for both desktop and mobile platforms.
 
@@ -14,3 +15,5 @@ The concepts explored include:
 
 ## Role:
 My role in this project was programming, as well as collaborating on the design of interactions.
+
+
