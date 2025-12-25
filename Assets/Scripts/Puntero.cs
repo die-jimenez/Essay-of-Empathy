@@ -37,7 +37,7 @@ public class Puntero : MonoBehaviour
 
     void Update()
     {
-#if UNITY_EDITOR
+#if UNITY_EDITOR || UNITY_STANDALONE || UNITY_WEBGL
         if (Input.GetMouseButtonDown(0))
         {
             GameManager.instance.hayInterccion = true;

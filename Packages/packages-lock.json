@@ -7,6 +7,12 @@
       "dependencies": {},
       "hash": "4854b65a98b89882dd5c3ee480aa09b7f94cff5d"
     },
+    "com.mibdev.fullscreen-editor": {
+      "version": "file:com.mibdev.fullscreen-editor",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.2d.animation": {
       "version": "9.2.0",
       "depth": 1,
